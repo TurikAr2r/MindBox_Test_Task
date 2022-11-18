@@ -1,4 +1,3 @@
-using MindBoxShapeLibrary.Abstractions;
 using MindBoxShapeLibrary.Models;
 using MindBoxShapeLibrary.Models.Abstractions;
 using Xunit;

@@ -1,9 +1,8 @@
-﻿using MindBoxShapeLibrary.Abstractions;
-using MindBoxShapeLibrary.Models.Abstractions;
+﻿using MindBoxShapeLibrary.Models.Abstractions;
 
 namespace MindBoxShapeLibrary.Models;
 
-public class Triangle : Shape, ITriangle
+public class Triangle : Shape
 {
     public Triangle(double aSide, double bSide, double cSide)
     {
