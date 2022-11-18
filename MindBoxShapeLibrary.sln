@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxShapeLibrary", "MindBoxShapeLibrary\MindBoxShapeLibrary.csproj", "{46DC1AFA-870E-41C2-B825-9848DEBE1155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxShapeLibraryTests", "MindBoxShapeLibraryTests\MindBoxShapeLibraryTests.csproj", "{DA355961-DDD8-443F-AE02-FC9EFAA6E8F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxShapeLibrary2", "MindBoxShapeLibrary2\MindBoxShapeLibrary2.csproj", "{1AD3E91D-2AD3-4E0B-9670-A0A325837D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxShapeLibrary2Tests", "MindBoxShapeLibrary2Tests\MindBoxShapeLibrary2Tests.csproj", "{FEA26F6D-147D-4CF5-89E5-A2C3A595822F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46DC1AFA-870E-41C2-B825-9848DEBE1155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DC1AFA-870E-41C2-B825-9848DEBE1155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DC1AFA-870E-41C2-B825-9848DEBE1155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DC1AFA-870E-41C2-B825-9848DEBE1155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA355961-DDD8-443F-AE02-FC9EFAA6E8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA355961-DDD8-443F-AE02-FC9EFAA6E8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA355961-DDD8-443F-AE02-FC9EFAA6E8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA355961-DDD8-443F-AE02-FC9EFAA6E8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD3E91D-2AD3-4E0B-9670-A0A325837D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD3E91D-2AD3-4E0B-9670-A0A325837D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD3E91D-2AD3-4E0B-9670-A0A325837D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD3E91D-2AD3-4E0B-9670-A0A325837D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA26F6D-147D-4CF5-89E5-A2C3A595822F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA26F6D-147D-4CF5-89E5-A2C3A595822F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA26F6D-147D-4CF5-89E5-A2C3A595822F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA26F6D-147D-4CF5-89E5-A2C3A595822F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
